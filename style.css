@@ -1,0 +1,81 @@
+.background {
+    height: 100vh;
+    width: 1000vw;
+    background-color: rgb(148, 215, 238);
+}
+.disquette {
+    height: 400px;
+    width: 400px;
+    background-color: rgb(73, 73, 73);
+    border-radius: 15px;
+    position: fixed;
+    top: 100px;
+    left: 100px;
+    box-shadow: 20px 20px 20px 20px rgba(0, 0, 0, 0.5);
+}
+.top-hole {
+    height: 120px;
+    width: 250px;
+    background-color: rgb(43, 37, 37);
+    border-radius: 0 0 10px 10px;
+    position: relative;
+    left: 60px;
+}
+.top-hole-thing {
+    height: 115px;
+    width: 200px;
+    background-color: #E3E3E3;
+    border-radius: 0 0 10px 10px;
+    position: relative;
+    left: 48px;
+}
+.that-other-thing {
+    height: 80px;
+    width: 45px;
+    background-color: rgb(43, 37, 37);
+    position: relative;
+    left: 130px;
+    top: 20px;
+}
+.bottom-hole {
+    height: 240px;
+    width: 300px;
+    background-color: rgb(73, 73, 73);
+    position: relative;
+    left: 50px;
+    top: 40px;
+    border-radius: 10px 10px 0 0;
+    box-shadow: inset 1px 1px 1px 1px;
+}
+.label {
+    height: 200px;
+    width: 280px;
+    background-color: white;
+    position: relative;
+    left: 10px;
+    top: 20px;
+    border-radius: 10px;
+}
+.top-label {
+    height: 40px;
+    width: 280px;
+    background-color: gold;
+    border-radius: 10px 10px 0 0;
+}
+.line {
+    height: 3px;
+    width: 280px;
+    background-color: gold;
+}
+.first {
+    position: relative;
+    top: 40px;
+}
+.second {
+    position: relative;
+    top: 80px;
+}
+.third {
+    position: relative;
+    top: 120px;
+}
